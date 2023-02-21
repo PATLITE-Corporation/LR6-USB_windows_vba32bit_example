@@ -49,4 +49,6 @@ USB2.0, Alarm, Direct mount, off-white body
 |CONFORMITY STANDARDS|EMC Directive, RoHS, UL, FCC, KC|
 |PROTECTION RATINGS|IP65 (IEC 60529), except when pole or wall mounted. NEMA Type 4X, 13|
 
+
+
 windows is a trademark or registered trademark of Microsoft Coporation.
